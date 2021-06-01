@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name":"Janak Verma",
+    "description":"I'm a DevOps Engineer and have keen interest in Cloud infrastructure like AWS, Azure and GCP, Continious Integration and Continious Deployment (CI/CD)like Jenkins, Source Control Management like GitHub, GitLab and Bitbucket, monitoring like Prometheus with Grafana and ELK Stack and related technologies.I also write blogs and  and enjoy learning and exploring new technologies related to DevOps.",
+    "image":"Mukul rai.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to Janak Verma to have them get in contact with you.",
+    "email": "technicaldevops@gmail.com",
+    "phone": "+91 7838250862",
+    "github":"https://github.com/itsjv",
+    "project":"https://jvdevops.com",
+    "address":{
+      "street":"University Campus, Gautam Buddha University",
+      "city":"Greater Noida",
+      "state":"Uttar Pradesh",
+      "zip": "201312"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/janakverma",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/_its_jv",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/janakverma/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/_its_jv",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/itsjv",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Gautam Buddha University",
+        "degree":"M.tech in Artificial Intelligence and Robotics(AIR)",
+        "graduated":"Pursuing",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {"school":"Gautam Buddha University",
+        "degree":"B.Tech in Computer Science and Engineering(CSE)",
+        "graduated":"2021",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Alyssum Global Services",
+        "title":"DevOps Engineer ",
+        "years":"Feb 2021 - Present",
+        "description":"This E-Service based company !!!"
+      },
+      {
+        "company":"GBU Studymate",
+        "title":"Developer & Founding Member",
+        "years":"June 2018 - Present",
+        "description":"GBU Studymate is an android app contains study content for Engineering Students. It contains class notes , sample papers and books."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"Linux",
+        "level":"40%"
+      },
+      {
+        "name":"SCM (Github, GitLab & Bitbucket)",
+        "level":"50%"
+      },
+      {
+        "name":"Web Servers (Apache & Nginx)",
+        "level":"80%"
+      },
+      {
+        "name":"Hosting (Godaddy & BigRock).",
+        "level":"100%"
+      },
+      {
+        "name":"Jenkins",
+        "level":"80%"
+      },
+      {
+        "name":"Docker",
+        "level":"100%"
+      },
+      {
+        "name":"Kubernetes",
+        "level":"20%"
+      },
+      {
+        "name":"Terraform",
+        "level":"20%"
+      },
+      {
+        "name":"Cloud (AWS, Azure & DigitalOcean)",
+        "level":"20%"
+      },
+      {
+        "name":"Prometheus & Grafana.",
+        "level":"100%"
+      },
+      {
+        "name":"ELK Stack.",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Jenkins",
+        "category":"This is my Jenkins for test project.",
+        "image":"instibuddy.jpg",
+        "url":"https://jenkins.jvdevops.com/"
+      },
+      {
+        "title":"Prometheus",
+        "category":"Plateform will guide you to handling stress during college life.",
+        "image":"collegebuddy.jpg",
+        "url":"https://prometheus.jvdevops.com/"
+      },
+      {
+        "title":"Grafana",
+        "category":"Plateform to eliminate all the doubts regarding college life and academia.",
+        "image":"cafequeria.jpg",
+        "url":"https://grafana.jvdevops.com/"
+      },
+      {
+        "title":"GBU StudyMate",
+        "category":"GBU StudyMate contains study content for Engineering Students.",
+        "image":"studymate.jpg",
+        "url":"https://play.google.com/store/apps/details?id=com.study.krish.gbu_matrials"
+      }
+    ]
+  }
+}
